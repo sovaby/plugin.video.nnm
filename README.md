@@ -1,0 +1,2 @@
+# plugin.video.nnm
+plugin
