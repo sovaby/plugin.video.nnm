@@ -1,2 +1,2 @@
-# plugin.video.nnm
+# plugin.video.nnm-club
 plugin
